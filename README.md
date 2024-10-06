@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21344
-Fork on GitHub
-6684
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Jorge Benitez</h1>
 <h3 align="center">A BS Computer Science student at UTRGV, passionate about software engineering. I love working on full-stack algorithms, web applications, and systems programming.</h3>
 
