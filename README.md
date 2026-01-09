@@ -11,9 +11,16 @@
 
 - 📫 How to reach me **jorgebjr28@gmail.com**
 
-- ## 🔹 AI & Data Projects
+- ## 🔹 Data & AI Projects
 
-I have hands-on experience with AI-assisted programming and data analytics projects that demonstrate practical skills in coding, automation, and data-driven insights.
+I have hands-on experience with data analytics and AI-assisted programming, demonstrating practical skills in coding, automation, and data-driven insights.
+
+### Data Analytics Projects
+- [Track & Field Data Analysis](https://github.com/jorgebjr28/track-analysis)  
+  - Used Pandas, NumPy, Seaborn, Matplotlib, K-means clustering, and PCA to clean, analyze, and visualize over 3,000 athlete performance records.  
+
+- [Robot Sensor Database](https://github.com/jorgebjr28/robot-database-proj)  
+  - Designed relational schemas in SQL, automated data ingestion with Python scripts, and performed time-based sensor analysis for movement insights.  
 
 ### AI Coding Agents
 - [MCP AI Agent](https://github.com/jorgebjr28/mcp-ai-agent)  
@@ -23,10 +30,6 @@ I have hands-on experience with AI-assisted programming and data analytics proje
 **Highlights:**  
 - Developed AI-assisted coding agents using Python to automate tasks, generate code snippets, and integrate with APIs for problem-solving.  
 - Applied effective AI-driven development practices learned in Eric Martinez’s *AI Powered Programming* course.  
-
-### Data Analytics Projects
-- **Track & Field Data Analysis**: Used Pandas, NumPy, Seaborn, Matplotlib, K-means clustering, and PCA to clean, analyze, and visualize over 3,000 athlete performance records.  
-- **Robot Sensor Database**: Designed relational schemas in SQL, automated data ingestion with Python scripts, and performed time-based sensor analysis for movement insights.  
 
 ---
 
