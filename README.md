@@ -5,11 +5,46 @@
 
 - 🌱 I’m currently learning **Operating Systems, Machine Learning, Digital Systems**
 
-- 👯 I’m looking to collaborate on **full-stack web development projects, especially those involving Ruby on Rails. As well as, data science projects that involve machine learning and predictive analytics.**
+- 👯 I’m looking to collaborate on **data analytics projects, AI-powered applications, and full-stack software development**, especially where I can apply predictive modeling and data-driven decision-making
 
-- 💬 Ask me about **Data Analytics, Machine Learning, Web Development, Databases, Algorithms, and AI**
+- 💬 Ask me about **Data Analytics, Data Visualisation, Machine Learning, Web Development, Databases, Algorithms, and AI**
 
 - 📫 How to reach me **jorgebjr28@gmail.com**
+
+- ## 🔹 AI & Data Projects
+
+I have hands-on experience with AI-assisted programming and data analytics projects that demonstrate practical skills in coding, automation, and data-driven insights.
+
+### AI Coding Agents
+- [MCP AI Agent](https://github.com/jorgebjr28/mcp-ai-agent)  
+- [Coding Agent](https://github.com/jorgebjr28/coding-agent)  
+- [Custom AI Agent](https://github.com/jorgebjr28/custom-ai-agent)  
+
+**Highlights:**  
+- Developed AI-assisted coding agents using Python to automate tasks, generate code snippets, and integrate with APIs for problem-solving.  
+- Applied effective AI-driven development practices learned in Eric Martinez’s *AI Powered Programming* course.  
+
+### Data Analytics Projects
+- **Track & Field Data Analysis**: Used Pandas, NumPy, Seaborn, Matplotlib, K-means clustering, and PCA to clean, analyze, and visualize over 3,000 athlete performance records.  
+- **Robot Sensor Database**: Designed relational schemas in SQL, automated data ingestion with Python scripts, and performed time-based sensor analysis for movement insights.  
+
+---
+
+## 🏆 Certifications & Achievements
+
+- Certified Entry-Level Python Programmer – 2023 ✅  
+- Certified Entry-Level IT Specialist Java – 2023 ✅  
+- Microsoft Office Specialist – Word Associate – 2022 ✅  
+- Completed *AI Powered Programming* course at UTRGV  
+
+---
+
+## 💡 Soft Skills & Collaboration
+
+- Agile / Scrum experience working in multi-person projects  
+- Mentorship and collaboration through SHPE, Frontera Devs, and DSAA  
+- Rapid prototyping and development using AI tools  
+- Strong debugging, troubleshooting, and problem-solving skills for complex systems  
 
 - 📄 Know about my experiences (My Resume:) [https://github.com/jorgebjr28/resume/blob/main/Resume.pdf](https://github.com/jorgebjr28/resume/blob/main/Resume.pdf)
 
