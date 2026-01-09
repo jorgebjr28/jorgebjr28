@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Benitez</h1>
-<h3 align="center">A BS Computer Science student at UTRGV, passionate about software engineering. I love working on full-stack algorithms, web applications, and systems programming.</h3>
+<h3 align="center">A BS Computer Science graduate from UTRGV, passionate about data analytics, AI-driven development, and software engineering. I enjoy building data pipelines, full-stack applications, and solving algorithmic problems.</h3>
 
 - 🔭 I’m currently working on **a Local Tutoring Volunteer Management Platform using Ruby on Rails**
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **full-stack web development projects, especially those involving Ruby on Rails. As well as, data science projects that involve machine learning and predictive analytics.**
 
-- 💬 Ask me about **Algorithms, Web Development, Linear Algebra, Statistics**
+- 💬 Ask me about **Data Analytics, Machine Learning, Web Development, Databases, Algorithms, and AI**
 
 - 📫 How to reach me **jorgebjr28@gmail.com**
 
